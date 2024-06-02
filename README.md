@@ -11,13 +11,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j1nge&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&custom_title=Languages:" height="150" alt="languages graph"  />
 </div>
 
-###
+##
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/j1nge/j1nge/output/snake.svg" alt="Snake animation" />
 
-###
+##
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -37,4 +37,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
 </div>
 
-###
+##
