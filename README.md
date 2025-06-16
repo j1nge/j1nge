@@ -2,7 +2,7 @@
 
 ###
 
-**My name is Eric. Welcome to my GitHub profile!**<br><br>- I am majoring in Data Science & Economics @ UMich '28 〽️<br>- I am interested in mathematical modeling and would like to work in PM, VC, PE, or as a Quant in the future<br><br>You can reach me at ```ericjing@umich.edu```
+**My name is Eric. Welcome to my GitHub profile!**<br><br>- I am a sophomore double majoring in Data Science & Economics with a minor in Math @ The University of Michigan<br>- I am interested in stastical modeling and trading and looking to go into either Quant or S&T<br><br>You can reach me at ```ericjing@umich.edu```
 
 ###
 
